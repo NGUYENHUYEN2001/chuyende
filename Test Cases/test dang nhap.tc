@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test dang nhap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ff4e417-026f-4580-8b2b-bb7f3bd888e0</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>5c668444-3bfd-45be-8f2b-69029f4a80c7</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/BeWorkTestData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>5c668444-3bfd-45be-8f2b-69029f4a80c7</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
+      <variableId>9aed0d12-baf8-4c0f-977e-7fee6d00300c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5c668444-3bfd-45be-8f2b-69029f4a80c7</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>190a5e26-ec24-484b-b4d8-557350974700</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5c668444-3bfd-45be-8f2b-69029f4a80c7</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ID</value>
+      <variableId>ff3b0de1-c074-419c-ba6b-6838b3a73c59</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9aed0d12-baf8-4c0f-977e-7fee6d00300c</id>
+      <masked>false</masked>
+      <name>account</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>190a5e26-ec24-484b-b4d8-557350974700</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>ff3b0de1-c074-419c-ba6b-6838b3a73c59</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

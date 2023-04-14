@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_to hoc lop 3</name>
+   <tag></tag>
+   <elementGuidId>9b872c7e-2955-4986-9e9a-a7fdfd5df26e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh sách đánh ký hiệu'])[2]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ck.ck-content.ck-editor__editable.ck-rounded-corners.ck-editor__editable_inline.ck-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7bf03c6b-495a-4cfb-8e6e-96c194f9840d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ck ck-content ck-editor__editable ck-rounded-corners ck-editor__editable_inline ck-focused</value>
+      <webElementGuid>b56e3927-0760-443c-82dc-5241034b30f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>lang</name>
+      <type>Main</type>
+      <value>vi</value>
+      <webElementGuid>5c1cf928-f0b7-4672-a967-7daa2c8c8c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>f99ea3d7-ad48-47bf-b70e-19c3169f2e86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>textbox</value>
+      <webElementGuid>bccc615a-08b1-4206-b9aa-1dad9e1c8b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Trình soạn thảo văn bản, main</value>
+      <webElementGuid>e19a5c3f-fd37-42c5-ac25-f4b02805c366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>contenteditable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>95d655f8-8c57-480e-9937-3aab7dc79013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>to hoc lop 3</value>
+      <webElementGuid>50cc4e05-5e28-4267-942d-97bcd74044ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;el-popup-parent--hidden&quot;]/div[@class=&quot;el-dialog__wrapper qa-dialog-add&quot;]/div[@class=&quot;el-dialog&quot;]/div[@class=&quot;el-dialog__body&quot;]/form[@class=&quot;el-form&quot;]/div[@class=&quot;el-form-item&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;ck ck-content ck-editor__editable ck-rounded-corners ck-editor__editable_inline ck-focused&quot;]</value>
+      <webElementGuid>1bce4c07-5a62-4855-81ae-651cbf22540b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh sách đánh ký hiệu'])[2]/following::div[1]</value>
+      <webElementGuid>121e9526-56cc-41c3-99db-1092b50b26fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh sách đánh ký hiệu'])[1]/following::div[1]</value>
+      <webElementGuid>cf8b87f3-dc3b-42f2-96dd-0b4be27336e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chủ đề'])[2]/preceding::div[5]</value>
+      <webElementGuid>184e2c97-7195-4c26-99e9-16e06eeb6dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T1'])[9]/preceding::div[7]</value>
+      <webElementGuid>8ec31099-fda0-4ec4-beaa-8338ddf7885a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div[2]</value>
+      <webElementGuid>3784ba0b-17d4-42e8-9844-e17865ccd10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'to hoc lop 3' or . = 'to hoc lop 3')]</value>
+      <webElementGuid>6908f2de-c0d9-442b-81d2-81c3966e93d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

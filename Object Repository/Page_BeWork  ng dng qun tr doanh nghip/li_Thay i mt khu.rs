@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Thay i mt khu</name>
+   <tag></tag>
+   <elementGuidId>16a85082-ac36-4a16-864b-4e3076d853d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>21d9a387-5c8e-4dd2-9838-b530aa2c62c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>258647c0-ab8f-41b1-b552-1e9cfbbf21ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>8654559c-8daa-4c9b-8efc-310968c162a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-menu-item</value>
+      <webElementGuid>e9b40f21-e9e0-491f-8a71-563b40cf5bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thay đổi mật khẩu</value>
+      <webElementGuid>dd7ae4f1-1c2b-4876-b3a9-6c20d2b300af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;el-popup-parent--hidden&quot;]/div[@class=&quot;el-dialog__wrapper&quot;]/div[@class=&quot;el-dialog dialog-padding-unset&quot;]/div[@class=&quot;el-dialog__body&quot;]/div[@class=&quot;s-dialog-content s-dialog-scroll-style&quot;]/div[@class=&quot;el-row&quot;]/div[@class=&quot;account-sidebar el-col el-col-6&quot;]/ul[@class=&quot;el-menu-vertical el-menu&quot;]/li[@class=&quot;el-submenu is-active is-opened&quot;]/ul[@class=&quot;el-menu el-menu--inline&quot;]/li[@class=&quot;el-menu-item&quot;]</value>
+      <webElementGuid>132b94ec-bedb-4ac7-acc6-8878b1ea402f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin'])[1]/following::li[1]</value>
+      <webElementGuid>2b771f1d-f775-477b-a016-e40de9840635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin cá nhân'])[1]/following::li[2]</value>
+      <webElementGuid>16c1198f-f4fa-4d32-841e-48a62ea55950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cài đặt'])[4]/preceding::li[1]</value>
+      <webElementGuid>a6e2dc22-c288-453d-9074-ccb5651213e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông báo'])[2]/preceding::li[1]</value>
+      <webElementGuid>d77a43a3-6994-4593-95a2-8083c01c4d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thay đổi mật khẩu']/parent::*</value>
+      <webElementGuid>3d34cee3-b8d5-4554-b46f-bab6ae2fb95f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[2]</value>
+      <webElementGuid>030265d9-c3b3-4e7a-8456-057971e76302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Thay đổi mật khẩu' or . = 'Thay đổi mật khẩu')]</value>
+      <webElementGuid>447fe30b-cde7-4fe2-a9e6-4fb5a2d5768c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

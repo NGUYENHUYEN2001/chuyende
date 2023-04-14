@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hi p</name>
+   <tag></tag>
+   <elementGuidId>d013784d-2644-4321-9467-01dcea9fa2fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-popover-3215']/div/ul/li[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/question-answer/' and (text() = ' Hỏi đáp' or . = ' Hỏi đáp')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>492717af-3bdb-4a14-934f-f41e10da8dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/question-answer/</value>
+      <webElementGuid>f25665de-915c-49ac-884e-9b3361610076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hỏi đáp</value>
+      <webElementGuid>70f767ad-64bd-4554-a664-a77d3dc78dba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-popover-3215&quot;)/div[1]/ul[@class=&quot;module&quot;]/li[@class=&quot;module-item&quot;]/div[1]/a[1]</value>
+      <webElementGuid>3febc53f-19db-4332-96b1-983bc601c5b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-popover-3215']/div/ul/li[2]/div/a</value>
+      <webElementGuid>54363982-14db-4da2-bd3a-56dac026f96a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhân sự'])[1]/following::a[1]</value>
+      <webElementGuid>9205d333-5d73-4e45-bdb8-b2b450f295bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chi tiết bài viết'])[1]/following::a[2]</value>
+      <webElementGuid>e3675081-ab5b-4d80-a485-1b752ec72513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/question-answer/')]</value>
+      <webElementGuid>49aff75c-ba2d-428b-8c0d-5ca8868233d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a</value>
+      <webElementGuid>022ed2ad-ec09-489a-af85-f221fa2ed57f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/question-answer/' and (text() = ' Hỏi đáp' or . = ' Hỏi đáp')]</value>
+      <webElementGuid>7bd226b2-505f-4a22-8dad-e05ea1aaf071</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

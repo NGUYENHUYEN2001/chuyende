@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test bang tin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c251ecc-343f-4072-bfa8-20c5ad889a04</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2c043f6c-4651-4654-89aa-33d9b07949be</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/data_bangtin</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>2c043f6c-4651-4654-89aa-33d9b07949be</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Data </value>
+      <variableId>f7c27c4b-296f-4c49-a677-8a5966fd2b98</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>2c043f6c-4651-4654-89aa-33d9b07949be</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>STT</value>
+      <variableId>01dd7f49-f8f6-41a0-8473-cd00489ee31c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f7c27c4b-296f-4c49-a677-8a5966fd2b98</id>
+      <masked>false</masked>
+      <name>noidung</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>01dd7f49-f8f6-41a0-8473-cd00489ee31c</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

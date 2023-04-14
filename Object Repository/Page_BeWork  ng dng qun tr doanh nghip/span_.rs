@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>09bd3806-61d1-47ff-92f3-c2d5b872e61a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[2]/div/div/div/div[3]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.el-button.btn-add-question.is-none-border.el-button--text > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cba59ab4-489a-4c66-84c4-cc1b08d8aca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+</value>
+      <webElementGuid>0d0886b3-5b4b-42f4-9af7-444a8e589fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-wrapper openSidebar&quot;]/div[@class=&quot;child-layout&quot;]/div[@class=&quot;question-answer&quot;]/div[@class=&quot;qa-content el-row&quot;]/div[1]/div[@class=&quot;el-row&quot;]/div[@class=&quot;qa-left&quot;]/div[@class=&quot;question&quot;]/button[@class=&quot;el-button btn-add-question is-none-border el-button--text&quot;]/span[1]</value>
+      <webElementGuid>fccd2436-cac2-4924-9dcc-8c2ffd7632c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[2]/div/div/div/div[3]/button/span</value>
+      <webElementGuid>50495d61-0271-4a9f-8384-6682f6977968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T1'])[8]/following::span[1]</value>
+      <webElementGuid>215a742c-652d-49a3-a794-bd40e04888ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nguyen Thi Huyen'])[10]/following::span[3]</value>
+      <webElementGuid>f1774239-9dd4-408f-9927-83f8971126e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trần Hải Anh'])[1]/preceding::span[1]</value>
+      <webElementGuid>b536b14d-de59-498a-b58b-ec1374b1b30e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nguyễn Minh Châu'])[1]/preceding::span[1]</value>
+      <webElementGuid>dbad62e5-c71b-41f7-b452-add90a418c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>52339e62-d0be-48d5-82a2-9f1623ff6358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '+' or . = '+')]</value>
+      <webElementGuid>176b6633-bb10-4673-936c-389b159efca0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
